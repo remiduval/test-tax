@@ -1,0 +1,11 @@
+title: Professeurs
+author: a3d1789c-126b-4723-a048-e9339404653a
+updated_by: a3d1789c-126b-4723-a048-e9339404653a
+updated_at: 1624633226
+blueprint: departments
+localizations:
+  english:
+    title: Teachers
+    slug: teachers
+    updated_by: a3d1789c-126b-4723-a048-e9339404653a
+    updated_at: 1624633238

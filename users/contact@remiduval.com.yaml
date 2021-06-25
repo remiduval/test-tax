@@ -1,0 +1,10 @@
+name: 'Remi Duval'
+super: true
+id: a3d1789c-126b-4723-a048-e9339404653a
+password_hash: $2y$10$F4HcjpfzXq.h5xBfeSD98uYW6nUn2lI.PdB9ecQtV7IBk4569mJVO
+preferences:
+  collections:
+    staff:
+      after_save: continue_editing
+    pages:
+      after_save: continue_editing

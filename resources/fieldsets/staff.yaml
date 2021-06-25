@@ -1,0 +1,14 @@
+title: Staff
+fields:
+  -
+    handle: department
+    field:
+      max_items: 1
+      mode: default
+      taxonomies:
+        - departments
+      display: Department
+      type: terms
+      icon: taxonomy
+      listable: hidden
+      localizable: true

@@ -1,0 +1,13 @@
+title: Staff
+sites:
+  - french
+  - english
+template: default
+layout: layout
+taxonomies:
+  - departments
+revisions: false
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
